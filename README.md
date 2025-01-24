@@ -94,24 +94,3 @@ Joseph Santarcangelo, PhD in Electrical Engineering, specializes in machine lear
 
 ### License
 This project is © IBM Corporation 2020. All rights reserved.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
