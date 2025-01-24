@@ -88,6 +88,7 @@ soup = BeautifulSoup(html_data2,"html.parser")
 ```
 #### Step 3: Visualize Data
 Plot GameStop's stock price and revenue trends using make_graphs.
+There are additional HTML Interactive Exports of the Graphs, to run those please download the html file and open in the browser of your preference. 
 
 ### Author
 Joseph Santarcangelo, PhD in Electrical Engineering, specializes in machine learning, signal processing, and computer vision. Dr. Santarcangelo is currently affiliated with IBM.
